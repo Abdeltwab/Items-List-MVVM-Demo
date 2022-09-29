@@ -1,17 +1,15 @@
-# Items-List-MVVM-Demo
-
 # OverView
 
 Demo App with Simple List of Items fetched from API and Display Item Details when Select.
 
-# Tech Stack 
+## Tech Stack 
 
 - MVVM
 - RXswift 
 - UIKIT
 
 
-# Screen 
+## Screen 
 
 <table>
   <tr>
